@@ -1,0 +1,7 @@
+classes = NUMCLASSES
+train  = TRAINFILE
+valid  = VALFILE
+names = NAMESFILE
+backup = BACKUPFOLDER
+results = RESULTSFOLDER
+
